@@ -1,0 +1,5 @@
+{
+  "document_type": "word",
+  "file_name": "kore-ai-letter",
+  "document_json": "{\"type\":\"document\",\"content\":{\"children\":[{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"Dear Customer,\"}]},{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"This letter was created from the OfficeMaker Kore.ai starter example.\"}]},{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"Kind regards,\"}]},{\"type\":\"paragraph\",\"children\":[{\"type\":\"text\",\"text\":\"Kore.ai Agent\"}]}]}}"
+}
